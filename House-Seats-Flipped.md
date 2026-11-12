@@ -105,6 +105,7 @@ Victoria Spartz* (R) | 125,870 |	48.4% |
 
 <h3>U.S. House Iowa District 1</h3>
 <h4>99% est. vote in</h4>
+
 | Candidate 			| 	Total Votes	| % Votes |
 |-----------------------|---------------|---------|
 | Christina Bohannan (D) | 184,001	| 53%
@@ -113,6 +114,7 @@ Victoria Spartz* (R) | 125,870 |	48.4% |
 
 <h3>U.S. House Iowa District 2</h3>
 <h4>99% est. vote in</h4>
+
 | Candidate 			| 	Total Votes	| % Votes |
 |-----------------------|---------------|---------|
 | Dave Bushaw | 7,477	| 2.2% |
@@ -122,6 +124,7 @@ Victoria Spartz* (R) | 125,870 |	48.4% |
 
 <h3>U.S. House Iowa District 3</h3>
 <h4>99% est. vote in</h4>
+
 | Candidate 			| 	Total Votes	| % Votes |
 |-----------------------|---------------|---------|
 | Sarah Trone Garriott (D) | 189,435	| 53.6% |
