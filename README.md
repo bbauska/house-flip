@@ -118,10 +118,11 @@ House contests also yet to be called Wednesday.
 
 | U.S. Senate races | Democrat | Republican |
 |-------------------|----------|------------|
-| Poll Close | State |							Leader |	Est. Votes Counted |
-|------------|-------|---------------------------------|-----------------------|
-| 4 p.m.     |	D-Georgia |							Ossoff +18.1 | 99% |
-|			|	R-Kentucky |							Barr +12.1 |		99 |
+
+| Poll Close | State |				  			                 Leader | Est. Votes Counted |
+|------------|------------------------|---------------------------------|-----------------------|
+| 4 p.m.     |	D-Georgia |							Ossoff +18.1   | 99% |
+|			|	R-Kentucky |							Barr +12.1 | 99 |
 |			|	D-South Carolina |					Andrews +4.5 |	99 |
 |			|	D-Virginia		 |					Warner +22.6 |	98 |
 | 4:30 p.m. |	North Carolina	 |					Cooper +19.6 |	99 |
